@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react7/static/css/main.3cf1ad21.chunk.css",
+    "main.js": "/react7/static/js/main.17265dc3.chunk.js",
+    "main.js.map": "/react7/static/js/main.17265dc3.chunk.js.map",
+    "runtime-main.js": "/react7/static/js/runtime-main.59f47a00.js",
+    "runtime-main.js.map": "/react7/static/js/runtime-main.59f47a00.js.map",
+    "static/js/2.bc22e622.chunk.js": "/react7/static/js/2.bc22e622.chunk.js",
+    "static/js/2.bc22e622.chunk.js.map": "/react7/static/js/2.bc22e622.chunk.js.map",
+    "index.html": "/react7/index.html",
+    "precache-manifest.eca2b6c18ddd18089d1026f1a881d7eb.js": "/react7/precache-manifest.eca2b6c18ddd18089d1026f1a881d7eb.js",
+    "service-worker.js": "/react7/service-worker.js",
+    "static/css/main.3cf1ad21.chunk.css.map": "/react7/static/css/main.3cf1ad21.chunk.css.map",
+    "static/js/2.bc22e622.chunk.js.LICENSE.txt": "/react7/static/js/2.bc22e622.chunk.js.LICENSE.txt",
+    "static/media/Chipolino.jpg": "/react7/static/media/Chipolino.e3fbc2ed.jpg",
+    "static/media/Hagrid.jpg": "/react7/static/media/Hagrid.ec77c85c.jpg",
+    "static/media/Obama.jpg": "/react7/static/media/Obama.5e0d4faa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f47a00.js",
+    "static/js/2.bc22e622.chunk.js",
+    "static/css/main.3cf1ad21.chunk.css",
+    "static/js/main.17265dc3.chunk.js"
+  ]
+}
